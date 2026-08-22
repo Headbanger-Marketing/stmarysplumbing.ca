@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stmarysplumbing.ca/sitemap-index.xml
